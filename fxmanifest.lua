@@ -1,3 +1,5 @@
 fx_version "cerulean"
 
-version '1.1.0'
+version 'fx_version "cerulean"
+
+version '1.1.2'
