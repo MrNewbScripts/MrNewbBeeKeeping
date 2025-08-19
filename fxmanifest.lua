@@ -2,4 +2,4 @@ fx_version "cerulean"
 
 version 'fx_version "cerulean"
 
-version '1.4.5'
+version '1.4.6'
